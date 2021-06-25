@@ -18,5 +18,6 @@
   - HTU21D
   - MCP41010
   - Adafruit Monochrome 0.96" 128x64 OLED
-  - ESP266(wifi module)<br><br>
+  - ESP266(wifi module)
+<br><br>
 UART, I2C, SPI 통신 등을 사용하여 센서와 보드의 통신을 지원하는 다양한 과제를 수행하였음.<br>
