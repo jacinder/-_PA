@@ -1,3 +1,5 @@
+// Nucleo board 보드의 버튼을 누를 때마다 LED2의 점멸 시간의 주기가 바뀐다.
+// 500ms on/off -> 1sec on/off -> 2sec on/off -> 4sec on/off -> 125ms on/off -> 250ms on/off -> 500ms on/off ...
 #include "mbed.h"
 
 DigitalOut led2(LED2);
