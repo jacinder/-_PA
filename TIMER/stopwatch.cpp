@@ -1,3 +1,11 @@
+//
+// USER_BUTTON을 짧게 누르면 stopwatch가 시작한다.
+// 다음, 버튼을 짧게 누를 때마다 lab time을 pc 터미널에 표시한다.
+// 버튼을 1초 이상 길게 누르면, lab time을 표시하고 stop watch가 종료된다.
+// 이와같은 과정이 반복되어 실행된다.
+// (stop watch의 resolution은 0.001초)
+//
+
 #include "mbed.h"
 InterruptIn button(USER_BUTTON);
 Timer t;
