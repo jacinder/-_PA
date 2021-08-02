@@ -7,7 +7,7 @@ UART, I2C, SPI 통신 등을 사용하여 센서와 보드의 통신을 지원�
   - Mbed online compiler<br>
 - **pc terminal**
   - CoolTerm(mac), TeraTerm(window)<br>
-- **mobile termainl**
+- **mobile terminal**
   - BLE Terminal HM-10(iphone)<br>
 - **sensors**
   - cds조도센서
